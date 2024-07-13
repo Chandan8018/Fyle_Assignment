@@ -4,6 +4,7 @@ import HeroSection from "./components/HeroSection";
 import ChooseUs from "./components/ChooseUs";
 import OurProject from "./components/OurProject";
 import Company from "./components/Company";
+import Feedback from "./components/Feedback";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <ChooseUs />
       <OurProject />
       <Company />
+      <Feedback />
     </div>
   );
 }
