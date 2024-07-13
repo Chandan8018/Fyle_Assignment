@@ -1,0 +1,24 @@
+.image-container {
+  position: relative;
+  display: inline-block;
+}
+
+.default-image,
+.hover-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: opacity 0.3s ease;
+}
+
+.hover-image {
+  opacity: 0;
+}
+
+.image-container:hover .hover-image {
+  opacity: 1;
+}
+
+.image-container:hover .default-image {
+  opacity: 0;
+}

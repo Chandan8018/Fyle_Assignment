@@ -6,6 +6,9 @@ import heart from "../assets/heart.png";
 import clock from "../assets/clock.png";
 import path from "../assets/path.png";
 import win from "../assets/win.png";
+import silderImg1 from "../assets/sliderImg1.png";
+import silderImg2 from "../assets/sliderImg2.png";
+import silderImg3 from "../assets/sliderImg3.png";
 
 export const ChooseUsData = [
   {
@@ -63,4 +66,10 @@ export const CompanyData = [
     title: "Win Awards",
     content: "75 +",
   },
+];
+
+export const slides = [
+  { id: 1, image: silderImg1 },
+  { id: 2, image: silderImg2 },
+  { id: 3, image: silderImg3 },
 ];

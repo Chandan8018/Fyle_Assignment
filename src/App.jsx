@@ -1,24 +1,15 @@
 import "./App.css";
-import React from "react";
-import HeroSection from "./components/HeroSection";
-import ChooseUs from "./components/ChooseUs";
-import OurProject from "./components/OurProject";
-import Company from "./components/Company";
-import Feedback from "./components/Feedback";
-import Footer from "./components/Footer";
-import Services from "./components/Services";
+import { Routes, Route, BrowserRouter } from "react-router-dom";
+import Home from "./pages/Home";
 
 function App() {
   return (
-    <div>
-      <HeroSection />
-      <Services />
-      <ChooseUs />
-      <OurProject />
-      <Company />
-      <Feedback />
-      <Footer />
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <Route path='*' element={<Home />} />
+        <Route path='/' element={<Home />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 
