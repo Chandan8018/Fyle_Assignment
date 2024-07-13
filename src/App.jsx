@@ -5,6 +5,7 @@ import ChooseUs from "./components/ChooseUs";
 import OurProject from "./components/OurProject";
 import Company from "./components/Company";
 import Feedback from "./components/Feedback";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <OurProject />
       <Company />
       <Feedback />
+      <Footer />
     </div>
   );
 }
