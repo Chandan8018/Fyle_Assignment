@@ -4,7 +4,7 @@ import heroImg from "../assets/hero.png";
 function HeroSection() {
   return (
     <div>
-      <div className='max-w-5xl mx-auto grid md:grid-cols-7 grid-cols-1 gap-10 py-[100px]'>
+      <div className='max-w-5xl mx-auto grid md:grid-cols-7 grid-cols-1 gap-10 py-[50px]'>
         <div className='col-span-4 flex flex-col justify-center items-start gap-10 pl-5 md:pl-0'>
           <h3 className='text-left font-semibold text-[30px] leading-[110px] tracking-[0px] text-[#FF3147] uppercase opacity-100 font-cormorant-sc'>
             Award winning
