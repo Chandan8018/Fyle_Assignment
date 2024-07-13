@@ -4,7 +4,7 @@ import { ChooseUsData } from "../data/data";
 function ChooseUs() {
   return (
     <div>
-      <div className='max-w-5xl mx-auto flex flex-col gap-5'>
+      <div className='max-w-5xl mx-auto flex flex-col gap-5 pt-16 pb-8'>
         <h1 className='text-center font-semibold text-[24px] leading-[26px] tracking-[0px] text-[#FF3147] uppercase opacity-100 font-cormorant-sc'>
           WHY CHOOSE US
         </h1>

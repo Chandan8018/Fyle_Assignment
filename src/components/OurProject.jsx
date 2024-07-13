@@ -3,7 +3,7 @@ import projectImg from "../assets/project.png";
 
 function OurProject() {
   return (
-    <div className='max-w-5xl mx-auto flex flex-col gap-5'>
+    <div className='max-w-5xl mx-auto flex flex-col gap-5 pt-8 pb-16'>
       <h3 className='text-center font-semibold text-[24px] leading-[26px] tracking-[0px] text-[#FF3147] uppercase opacity-100 font-cormorant-sc'>
         Our project
       </h3>
