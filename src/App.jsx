@@ -3,6 +3,7 @@ import React from "react";
 import HeroSection from "./components/HeroSection";
 import ChooseUs from "./components/ChooseUs";
 import OurProject from "./components/OurProject";
+import Company from "./components/Company";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <HeroSection />
       <ChooseUs />
       <OurProject />
+      <Company />
     </div>
   );
 }

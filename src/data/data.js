@@ -2,6 +2,10 @@ import img1 from "../assets/1.png";
 import img2 from "../assets/2.png";
 import img3 from "../assets/3.png";
 import img4 from "../assets/4.png";
+import heart from "../assets/heart.png";
+import clock from "../assets/clock.png";
+import path from "../assets/path.png";
+import win from "../assets/win.png";
 
 export const ChooseUsData = [
   {
@@ -31,5 +35,32 @@ export const ChooseUsData = [
     description:
       "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.",
     img: img4,
+  },
+];
+
+export const CompanyData = [
+  {
+    id: 1,
+    img: heart,
+    title: "Staticfied Customers",
+    content: "199 +",
+  },
+  {
+    id: 2,
+    img: clock,
+    title: "Days Of Operation",
+    content: "1591+",
+  },
+  {
+    id: 3,
+    img: path,
+    title: "Complete Project",
+    content: "283 +",
+  },
+  {
+    id: 4,
+    img: win,
+    title: "Win Awards",
+    content: "75 +",
   },
 ];

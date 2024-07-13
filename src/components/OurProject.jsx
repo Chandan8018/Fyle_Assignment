@@ -4,9 +4,9 @@ import projectImg from "../assets/project.png";
 function OurProject() {
   return (
     <div className='max-w-5xl mx-auto flex flex-col gap-5'>
-      <h1 className='text-center font-semibold text-[24px] leading-[26px] tracking-[0px] text-[#FF3147] uppercase opacity-100 font-cormorant-sc'>
+      <h3 className='text-center font-semibold text-[24px] leading-[26px] tracking-[0px] text-[#FF3147] uppercase opacity-100 font-cormorant-sc'>
         Our project
-      </h1>
+      </h3>
       <h1 className='text-center font-bold text-[45px] leading-[65px] tracking-[0px] text-black uppercase opacity-100 font-cormorant-sc'>
         Why We Are Best
       </h1>
