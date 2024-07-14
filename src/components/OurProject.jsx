@@ -19,31 +19,31 @@ function OurProject() {
           />
         </div>
         <div className='col-span-1 p-5 md:p-0'>
-          <div className='text-black bg-[#F6F6F6] hover:bg-[#FF3147] hover:text-[#FFFFFF] px-4 pb-4 flex flex-col '>
-            <h2 className='text-left font-medium text-[20px] leading-[70px] tracking-[0px] opacity-100 font-poppins'>
+          <div className='text-black bg-[#F6F6F6] px-4 pb-4 flex flex-col '>
+            <h2 className='text-left font-medium text-[20px] leading-5 md:leading-[70px] tracking-[0px] opacity-100 font-poppins'>
               Genderless Kei – Japan’s Hot
             </h2>
-            <h3 className='text-left font-normal text-[16px] leading-[23px] tracking-[0px] opacity-100 font-poppins'>
+            <h3 className='text-left font-normal text-[16px] leading-[23px] tracking-[0px] opacity-100 font-poppins mt-3 md:mt-0'>
               Set to launch on the manufacturer’s new A330neo aircraft in 2017,
               it’s offering lots of
             </h3>
           </div>
 
-          <div className='text-black bg-[#F6F6F6] hover:bg-[#FF3147] hover:text-[#FFFFFF] px-4 pb-4 flex flex-col'>
-            <h2 className='text-left font-medium text-[20px] leading-[70px] tracking-[0px] opacity-100 font-poppins'>
-              Genderless Kei – Japan’s Hot
+          <div className='bg-[#FF3147] text-[#FFFFFF] px-4 pb-4 flex flex-col'>
+            <h2 className='text-left font-medium text-[20px] leading-5 md:leading-[70px] tracking-[0px] opacity-100 font-poppins'>
+              Better Strategy & Quality
             </h2>
-            <h3 className='text-left font-normal text-[16px] leading-[23px] tracking-[0px] opacity-100 font-poppins'>
+            <h3 className='text-left font-normal text-[16px] leading-[23px] tracking-[0px] opacity-100 font-poppins mt-3 md:mt-0'>
               Set to launch on the manufacturer’s new A330neo aircraft in 2017,
               it’s offering lots of
             </h3>
           </div>
 
-          <div className='text-black bg-[#F6F6F6] hover:bg-[#FF3147] hover:text-[#FFFFFF] px-4 pb-4 flex flex-col'>
-            <h2 className='text-left font-medium text-[20px] leading-[70px] tracking-[0px] opacity-100 font-poppins'>
+          <div className='text-black bg-[#F6F6F6] px-4 pb-4 flex flex-col'>
+            <h2 className='text-left font-medium text-[20px] leading-5 md:leading-[70px] tracking-[0px] opacity-100 font-poppins'>
               Genderless Kei – Japan’s Hot
             </h2>
-            <h3 className='text-left font-normal text-[16px] leading-[23px] tracking-[0px] opacity-100 font-poppins'>
+            <h3 className='text-left font-normal text-[16px] leading-[23px] tracking-[0px] opacity-100 font-poppins mt-3 md:mt-0'>
               Set to launch on the manufacturer’s new A330neo aircraft in 2017,
               it’s offering lots of
             </h3>
