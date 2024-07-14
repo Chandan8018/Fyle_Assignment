@@ -1,5 +1,5 @@
 import React, { useCallback, useEffect, useState } from "react";
-import { slides } from "../data/data";
+import { slides } from "../data/data.js";
 import icon from "../assets/icon.png";
 import arrow from "../assets/arrow.png";
 import { Link } from "react-router-dom";

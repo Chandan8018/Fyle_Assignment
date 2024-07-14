@@ -1,5 +1,5 @@
 import React from "react";
-import { CompanyData } from "../data/data";
+import { CompanyData } from "../data/data.js";
 
 function Company() {
   return (
