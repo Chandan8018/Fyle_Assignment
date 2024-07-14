@@ -58,6 +58,9 @@ This will start the React app at `http://localhost:5173`.
 - Contact Us Data Send Pop-Up Page
 ![Contact Us Data Send Pop-Up Page](./public/dataSend-popup.png)
 ---
+- Recived Data on app.getform.io
+![Recived Data on app.getform.io](./public/getData.png)
+---
 
 ### Image Slider
 
@@ -126,10 +129,6 @@ This will start the React app at `http://localhost:5173`.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue.
-
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
